@@ -1,1 +1,1 @@
-Script to compile a C file without linking
+Script that compiles a C file and creates an executable named cisfun
