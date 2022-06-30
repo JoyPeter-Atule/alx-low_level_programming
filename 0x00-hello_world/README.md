@@ -1,1 +1,1 @@
-Script that compiles a C file and creates an executable named cisfun
+A simple C program using puts function
