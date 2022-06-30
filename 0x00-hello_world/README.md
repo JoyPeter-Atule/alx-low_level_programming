@@ -1,1 +1,1 @@
-A simple C program using puts function
+Printing a smalling program using printf function
