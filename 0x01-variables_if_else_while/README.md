@@ -1,1 +1,1 @@
-C variables, if, else and while
+Generating random number with if
