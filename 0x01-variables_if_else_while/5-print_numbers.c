@@ -2,16 +2,16 @@
 /*
  * main - Entry point and void
  *
- * description - Program to print lowercase of the alphabet
+ * description - Program to print number 0-9
  *
  * return: return of main set a 0 (sucess)
  */
 int main(void)
 {
-char c;
-for (c = 'a'; c <= 'z'; c++)
+int i;
+for (i = 0; i < 10 ; i++)
 {
-putchar(c);
+printf("%d", i);
 }
 return (0);
 }
