@@ -1,1 +1,1 @@
-To print single digits in base 10 strating from 0
+Print single digits of base 10 from 0 using putchar
